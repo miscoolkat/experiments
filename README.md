@@ -1,2 +1,2 @@
 # experiments
-This is a repository can have fun with programming together
+This is a repository where my dad and I can have fun with programming together
